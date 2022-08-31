@@ -3,6 +3,11 @@ Feel free to look at it to pick up some tricks!
 But you will not need to alter it to complete the problems on the worksheet
 */
 
+body {
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(92,154,228,1) 47%, rgba(36,28,179,1) 100%);
+}
+
 /* Do not alter this class */
 .field {
     width: 500px;
@@ -23,17 +28,18 @@ But you will not need to alter it to complete the problems on the worksheet
     display:flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
 }
 
 /* Do not alter this class */
 .stitching {
     transform: rotate(-45deg);
+    width:54px;
     color: white;
-    position: relative;
     font-size: large;
     text-decoration:line-through;
     text-decoration-thickness: 7px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* Do not alter this class */
@@ -42,3 +48,6 @@ But you will not need to alter it to complete the problems on the worksheet
 }
 
 
+.text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
