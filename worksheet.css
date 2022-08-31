@@ -1,0 +1,95 @@
+/* Number One */
+.container-1 {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+/* Number Two */
+.container-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Number Three */
+.container-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Number Four */
+.container-4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Number Five */
+.container-5 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+/* Number Six */
+.container-6 {
+
+}
+
+/* Number Seven */
+.container-7 {
+
+}
+
+/* Number Eight */
+.container-8 {
+
+}
+
+/* Number Nine */
+.container-9 {
+
+}
+
+/* Number Ten */
+.container-10 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+/* Number Eleven */
+.container-11 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nerf-11 {
+    background-color: blue;
+    align-self: flex-start;
+}
+
+/* Number Twelve */
+.container-12 {
+
+}
+
+/* Number Thirteen */
+.container-13 {
+
+}
+
+/* Number Fourteen */
+.container-14 {
+
+}
+
+/* Number Fifteen */
+.container-15 {
+
+}
