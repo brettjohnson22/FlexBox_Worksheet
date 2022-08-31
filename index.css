@@ -1,0 +1,99 @@
+
+/* Do not alter this class */
+.field {
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    background-color: forestgreen;
+}
+
+/* Do not alter this class */
+.football {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: saddlebrown;
+    border-radius: 80px 8px;
+    transform: rotate(-45deg);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Do not alter this class */
+.nerf {
+    background-color: blue;
+}
+
+/* Do not alter this class */
+.stitching {
+    transform: rotate(-45deg);
+    color: white;
+    position: relative;
+    font-size: large;
+    text-decoration:line-through;
+    text-decoration-thickness: 7px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-2 {
+
+}
+
+.container-3 {
+
+}
+
+.container-4 {
+
+}
+
+.container-5 {
+
+}
+
+.container-6 {
+
+}
+
+.container-7 {
+
+}
+
+.container-8 {
+
+}
+
+.container-9 {
+
+}
+
+.container-10 {
+
+}
+
+.container-11 {
+
+}
+
+.container-12 {
+
+}
+
+.container-13 {
+
+}
+
+.container-14 {
+
+}
+
+.container-15 {
+
+}
