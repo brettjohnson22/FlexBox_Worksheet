@@ -5,9 +5,10 @@ But you will not need to alter it to complete the problems on the worksheet
 
 body {
     background: rgb(0,212,255);
-    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(34,118,139,1) 50%, rgba(24,84,99,1) 100%)
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(34,118,139,1) 50%, rgba(0,212,255,1) 100%);
 }
-
+/* rgba(0,212,255,1)
+rgba(34,118,139,1) */
 header{
     font-size: 70px;
     font-weight: 700;
@@ -60,7 +61,7 @@ h3 {
 }
 
 .header-text{
-    background: linear-gradient(to right, #22568b 0%, #8b228b 100%);
+    background: #8b228b;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
