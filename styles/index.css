@@ -5,7 +5,17 @@ But you will not need to alter it to complete the problems on the worksheet
 
 body {
     background: rgb(0,212,255);
-    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(92,154,228,1) 47%, rgba(36,28,179,1) 100%);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(34,118,139,1) 50%, rgba(24,84,99,1) 100%)
+}
+
+header{
+    font-size: 70px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 500;
 }
 
 /* Do not alter this class */
@@ -49,10 +59,22 @@ body {
     background-color: blue;
 }
 
+.header-text{
+    background: linear-gradient(to right, #22568b 0%, #8b228b 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.section-text{
+    font-size: 40px;
+    font-weight: 500;
+}
 
 .text{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    color: #000;
 }
 
 .flex-container{
@@ -61,10 +83,22 @@ body {
     margin-bottom: 50px;
 }
 
+.intro-box{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5px;
+    background: linear-gradient(to left, #22568b 0%, #8b228b 100%);
+    background-clip: padding-box;
+    padding: 1px 20px 1px 20px;
+    border-radius: 8px;
+}
+
+
+
 .flex-left {
     width:50%;
     margin: 5px;
-    padding: 5px;
+
 
 }
   
@@ -81,3 +115,4 @@ img {
     margin-right: auto;
     border: 1px solid black;
 }
+
