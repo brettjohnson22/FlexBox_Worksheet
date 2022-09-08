@@ -11,8 +11,7 @@ body {
 section {
     margin-bottom: 250px;
 }
-/* rgba(0,212,255,1)
-rgba(34,118,139,1) */
+
 header{
     font-size: 70px;
     font-weight: 700;
@@ -117,5 +116,14 @@ img {
     margin-left: auto;
     margin-right: auto;
     border: 1px solid black;
+}
+
+.no-border{
+    border: none;
+    margin-bottom: -75px;
+}
+
+.answer{
+    color:aqua
 }
 
